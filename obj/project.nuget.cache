@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Vwsiz4skPF8Vxyi+z6kUpQwAjeS4mqMr3tYpkeSi+6UOn27LqfrkQdY3fZsxz7LsMpoNxiKcvLSc/2BqIVY3w==",
+  "success": true,
+  "projectFilePath": "/home/shahid/repos/Dependency-Injection/Dependency-Injection.csproj",
+  "expectedPackageFiles": [
+    "/home/shahid/.nuget/packages/ninject/4.0.0-beta.1/ninject.4.0.0-beta.1.nupkg.sha512"
+  ],
+  "logs": []
+}

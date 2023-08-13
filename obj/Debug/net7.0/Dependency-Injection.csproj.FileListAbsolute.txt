@@ -1,0 +1,17 @@
+/home/shahid/repos/Dependency-Injection/bin/Debug/net7.0/Dependency-Injection
+/home/shahid/repos/Dependency-Injection/bin/Debug/net7.0/Dependency-Injection.deps.json
+/home/shahid/repos/Dependency-Injection/bin/Debug/net7.0/Dependency-Injection.runtimeconfig.json
+/home/shahid/repos/Dependency-Injection/bin/Debug/net7.0/Dependency-Injection.dll
+/home/shahid/repos/Dependency-Injection/bin/Debug/net7.0/Dependency-Injection.pdb
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.csproj.AssemblyReference.cache
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.GeneratedMSBuildEditorConfig.editorconfig
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.AssemblyInfoInputs.cache
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.AssemblyInfo.cs
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.csproj.CoreCompileInputs.cache
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.dll
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/refint/Dependency-Injection.dll
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.pdb
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.genruntimeconfig.cache
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/ref/Dependency-Injection.dll
+/home/shahid/repos/Dependency-Injection/bin/Debug/net7.0/Ninject.dll
+/home/shahid/repos/Dependency-Injection/obj/Debug/net7.0/Dependency-Injection.csproj.CopyComplete
